@@ -8,7 +8,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 PRODUCT_RELEASE_NAME := kanas
 
 # Custom unofficial build tag
-TARGET_UNOFFICIAL_BUILD_ID := SandroidTeam
+TARGET_UNOFFICIAL_BUILD_ID := 4yush5663
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/kanas/kanas.mk)
